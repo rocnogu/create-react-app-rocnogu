@@ -1,8 +1,9 @@
 {
-  "name": "create-rocnogu-react",
+  "name": "create-rocnogu-reacts-module",
   "version": "1.0.0",
   "description": "A React Starter from scratch.",
   "bin": "./bin/cli.js",
+  "type": "module",
   "scripts": {
     "start": "react-scripts start",
     "eject": "react-scripts eject",
