@@ -1,5 +1,5 @@
 {
-  "name": "@rocnogu-npm/create-react-app-rocnogu",
+  "name": "create-rocnogu-react",
   "version": "1.0.0",
   "description": "A React Starter from scratch.",
   "bin": "./bin/cli.js",
