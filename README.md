@@ -1,17 +1,29 @@
+# What it contains
+
+ReactJS basic App
+
 ## To run the app
 
-In the project directory:
+Go Into the project directory and run
 
-### `npm i`
+#### `npm i `
 
-### `npm start`
+to install dependencies
 
-Opens [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* and
 
-## run React app on new port
+#### `npm start`
 
-### `export PORT=8000` in the console
+to develop locally
 
-or
+Opens [http://localhost:3000](http://localhost:3000) in the browser.
 
-"start": "set PORT=3006 && react-scripts start"
+### To run React app on new port
+
+#### `export PORT=8000`
+ in the console
+
+* or
+
+####  ` "start": "set PORT=8000 && react-scripts start" `  
+in package.json

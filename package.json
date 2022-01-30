@@ -1,8 +1,8 @@
 {
-  "name": "create-react-app-rocnogu",
+  "name": "@rocnogu-npm/create-react-app-rocnogu",
   "version": "1.0.0",
   "description": "A React Starter from scratch.",
-  "private": true,
+  "bin": "./bin/cli.js",
   "scripts": {
     "start": "react-scripts start",
     "eject": "react-scripts eject",
