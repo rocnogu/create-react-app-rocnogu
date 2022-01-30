@@ -1,0 +1,46 @@
+{
+  "name": "create-react-app-rocnogu",
+  "version": "1.0.0",
+  "description": "A React Starter from scratch.",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocnogu/create-react-app-rocnogu"
+  },
+  "keywords": [
+    "npm",
+    "npmjs",
+    "npm.js",
+    "react",
+    "react.js",
+    "create-react-app-rocnogu"
+  ],
+  "author": "rocnogu <pavelpetkov253@gmail.com> (https://rocnogu.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "^5.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/rocnogu/create-react-app-rocnogu/issues"
+  },
+  "homepage": "https://github.com/rocnogu/create-react-app-rocnogu#readme"
+}
